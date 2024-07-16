@@ -52,3 +52,13 @@ FOCUSED AREA :
 6.User Reviews and Ratings:
 
     Prominently display user reviews and ratings to build trust and assist in purchase decisions.
+    
+7 . Implemented cart adding functionality to streamline shopping experience.
+
+8 . Integrated a user-friendly login page to enhance accessibility and security.
+
+9 . Enhanced our platform with customer reviews to build trust and provide valuable insights.
+
+10 . Improved UI navigation for a more intuitive and seamless browsing experience.
+
+11 . Enhanced the category section to optimize product discovery and user engagement.
